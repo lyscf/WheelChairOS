@@ -10,7 +10,7 @@ WheelChair OS 是一个为 CTF 竞赛和渗透测试设计的虚拟机环境。�
 
 WheelChair OS 的虚拟机镜像文件可以从指定的下载链接获取。请确保您使用的虚拟机软件（如 VMware）支持导入 `.vmdk` 格式的虚拟机镜像。
 
-下载地址 [OneDrive](https://1drv.ms/u/c/5072269c7a7138cf/EZJEuR3XVD5NkmO_dkWitIABTfMsZlI8djYDHk91wFgWFA?e=A8Hm7i)
+下载地址 [OneDrive](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81MDcyMjY5YzdhNzEzOGNmL0VaSkV1UjNYVkQ1TmttT19ka1dpdElBQnNwTXBFVHdvLWEzb09tRV9aQmJXRFE%5FZT1QazlMbnA&cid=5072269C7A7138CF&id=5072269C7A7138CF%21s1db9449254d74d3e9263bf7645a2b480&parId=root&o=OneUp)
 
 密码 `We are all living passionately`
 
